@@ -1,0 +1,4 @@
+name = "ModuleAccessChecker"
+uuid = "af0b6139-480f-42b3-9c77-c8bef78f4840"
+authors = ["Christopher Doris <github.com/cjdoris>"]
+version = "0.1.0"
